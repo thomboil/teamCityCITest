@@ -11,7 +11,7 @@ namespace BasicApplication
         static void Main(string[] args)
         {
 
-            Console.WriteLine("This is a Continuous Integration Test")
+            Console.WriteLine("This is a Continuous Integration Test");
             Console.ReadLine();
         }
     }
